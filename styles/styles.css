@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.work-sans-font {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.banner{ text-align: center;
+margin: 0 auto;
+background-color: rgba(255, 144, 14, 0.07);
+padding: 45px;
+width: 1140px;
+height: 1000px;}
+
+
+       .banner-content{
+max-width: 850px;
+margin: 0 auto;
+
+       }
+
+
+
+
+.navigation{display: flex;
+  justify-content: space-between;
+}
+
+ul{display: flex;
+gap: 50px;}
+
+.elements{list-style: none;
+                text-decoration: none;
+                }
+
+ul li a {text-decoration: none; 
+              color: #424242;
+              font-weight: 500;
+              font-size: 16px;
+            
+          }
+          .banner-heading{font-weight:bold;
+            font-size:50px;
+            color: black;} 
+
+            .button-prymarry{border: none;
+              border-radius: 5px;
+            background-color: orange;
+          margin-bottom: 20px;
+       
+      padding:20px 25px;
+      font-weight: 600;
+      font-size: 1.25rem;
+      color: white;}
+
+
+      .image{width: 100%;
+       
+    }
+    @media screen and (max-width: 576px)
+    {
+      
+    }
+  
+
+
+          .dark-3{color: #rgba(114, 114, 114, 1);}
+
